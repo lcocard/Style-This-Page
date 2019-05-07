@@ -1,0 +1,66 @@
+    body {
+        background-color: gray;
+    }
+    
+    
+    h1 {
+        text-align: center;
+    }
+
+
+    h2 {
+        font-size: 1.5em; /* 24px/16=2.5em */
+    }
+
+    #one{
+        color: red;
+    }
+    #two{
+        color: blue;
+    }
+    #three{
+        color: green;
+    }
+
+    #four {
+        font-size: 5em; /* 80px/16=2.5em */
+    }
+
+    #five {
+        font-size: 0.2em;
+    }
+
+    #six {
+        text-align: center;
+    }
+
+    #seven {
+        font-weight: bold;
+    }
+
+    #eight {
+        font-family: 'Courier';
+    }
+
+    .color {
+        color: orange;
+    }
+
+    .large {
+        font-size: 2.5em;
+    }
+
+    .bold {
+        font-weight: bold;
+    }
+
+    .styledFont {
+        color: green;
+    }
+
+    #styledImage {
+        border: 5px solid yellow;
+    }
+
+
+
